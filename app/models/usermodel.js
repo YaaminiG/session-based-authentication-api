@@ -1,6 +1,4 @@
-/**
- * Created by shaishab on 2/18/16.
- */
+
 
 'use strict';
 
